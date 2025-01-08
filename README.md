@@ -1,2 +1,2 @@
-# Email-MCDR
+# GameMail-MCDR
 一个完整的游戏内邮件系统，并且可对接实际的电子邮箱。
