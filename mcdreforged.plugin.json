@@ -1,0 +1,15 @@
+{
+	"id": "game_mail",
+	"version": "0.0.1",
+	"name": "GameMail",
+	"description": {
+		"en_us": "A completely email system in game, and can connect actually email in real.",
+		"zh_cn": "一个完整的游戏内邮件系统，并可对接真实的电子邮箱。"
+	},
+	"dependencies": {
+		"mcdreforged": ">=2.1.0"
+	},
+	"author": "Mooling0602",
+    "link": "https://github.com/Mooling0602/Email-MCDR",
+	"entrypoint": "game_mail.entry"
+}
