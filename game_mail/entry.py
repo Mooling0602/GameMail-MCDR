@@ -33,8 +33,8 @@ def on_info(server: PluginServerInterface, info: Info):
     pass
 
 # Player's gaming life cycle.
-def on_player_joined(server: PluginServerInterface, info: Info):
+def on_player_joined(server: PluginServerInterface, player: str, info: Info):
     pass
 
-def on_player_left(server: PluginServerInterface):
+def on_player_left(server: PluginServerInterface, player: str):
     pass
